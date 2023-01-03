@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JavaScript](https://img.shields.io/badage/-JavaScript-%23F7DF1C?style=for-the-
-badage&logo=javascript&Color=00000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
