@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>stack</h2>
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<h2>skills</h2>
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
