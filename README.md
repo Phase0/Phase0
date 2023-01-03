@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Java](https://img.shields.io/badage/-Java-%23F7DF1C?style=for-the-
+badage&logo=java&Color=00000&labelColor=%23F7DF1C&color=%23FFCE5A)
