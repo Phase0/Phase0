@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h2>skills</h2>
-<img src=![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)>
+<https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
