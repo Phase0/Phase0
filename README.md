@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h2>stack</h2>
-![HTML5](https://img.shields.io/badage/-HTML5-F05032?style=for-the-badage&logo=html5&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
